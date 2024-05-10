@@ -1,0 +1,24 @@
+{
+  "name": "dart-score",
+  "version": "1.0.0",
+  "description": "package to analyse your dart project based on various code parameters and practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishraaditya595/dart-score.git"
+  },
+  "keywords": [
+    "dart",
+    "dart-score",
+    "dartscore"
+  ],
+  "author": "Aditya Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishraaditya595/dart-score/issues"
+  },
+  "homepage": "https://github.com/mishraaditya595/dart-score#readme"
+}
